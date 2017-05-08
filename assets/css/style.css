@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(255, 204, 185);
+  margin: 0 auto;
+  font-family: 'Raleway', sans-serif;
+}
+
+header{
+  background-color: rgb(255, 255, 255);
+}
+header ul li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 20px;
+}
+header ul li a{
+  text-decoration: none;
+}
